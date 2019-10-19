@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<categoryName>
+<Events>StartTestCase</Events>
+<Objects></Objects>
+<TestData></TestData>
+<WaitTime></WaitTime>
+</categoryName>
+<categoryName>
+<Events>OpenBrowser</Events>
+<Objects>NA</Objects>
+<TestData>Firefox</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>NA</Objects>
+<TestData>http://www.google.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>Click</Events>
+<Objects>Search_Gmail</Objects>
+<TestData>NA</TestData>
+<WaitTime>5 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CloseBrowser</Events>
+<Objects></Objects>
+<TestData></TestData>
+<WaitTime></WaitTime>
+</categoryName>
+</categories>

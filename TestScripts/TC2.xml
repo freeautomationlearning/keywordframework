@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<categoryName>
+<Events>StartTestCase</Events>
+<Objects></Objects>
+<TestData></TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>Component-Login</Events>
+<Objects>NA</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>OpenBrowser</Events>
+<Objects>NA</Objects>
+<TestData>Chrome</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>NA</Objects>
+<TestData>http://www.google.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CloseBrowser</Events>
+<Objects>NA</Objects>
+<TestData></TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>Component-Logout</Events>
+<Objects>NA</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+</categories>

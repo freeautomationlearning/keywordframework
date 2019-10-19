@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<categoryName>
+<Events>StartTestCase</Events>
+<Objects></Objects>
+<TestData></TestData>
+<WaitTime></WaitTime>
+</categoryName>
+<categoryName>
+<Events>OpenBrowser</Events>
+<Objects>NA</Objects>
+<TestData>Chrome</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>NA</Objects>
+<TestData>https://www.google.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>EnterText</Events>
+<Objects>Search_Textfield</Objects>
+<TestData>India</TestData>
+<WaitTime>5 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CustomFunction</Events>
+<Objects>ClearSearch</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CustomFunction</Events>
+<Objects>SearchFunction</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CustomFunction</Events>
+<Objects>TestChirag</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>NA</Objects>
+<TestData>https://www.facebook.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CloseBrowser</Events>
+<Objects></Objects>
+<TestData></TestData>
+<WaitTime></WaitTime>
+</categoryName>
+</categories>

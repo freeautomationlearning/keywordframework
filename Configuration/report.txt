@@ -1,0 +1,3 @@
+Total Run : 1
+Total Fail : 0
+Total Pass : 1

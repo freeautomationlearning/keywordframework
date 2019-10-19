@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<categoryName>
+<Events>Writeheader</Events>
+<Objects>Login</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>OpenBrowser</Events>
+<Objects>Login-NA</Objects>
+<TestData>Firefox</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>Login-NA</Objects>
+<TestData>http://www.google.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>EnterText</Events>
+<Objects>Login-Search_Textfield</Objects>
+<TestData>Selenium</TestData>
+<WaitTime>5 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CloseBrowser</Events>
+<Objects>Login-NA</Objects>
+<TestData></TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>Writeheader</Events>
+<Objects>Logout</Objects>
+<TestData>NA</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>OpenBrowser</Events>
+<Objects>Logout-NA</Objects>
+<TestData>Firefox</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>GetUrl</Events>
+<Objects>Logout-NA</Objects>
+<TestData>http://www.google.com</TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>EnterText</Events>
+<Objects>Logout-Search_Textfield</Objects>
+<TestData>Free Automation Learning</TestData>
+<WaitTime>5 </WaitTime>
+</categoryName>
+<categoryName>
+<Events>CloseBrowser</Events>
+<Objects>Logout-NA</Objects>
+<TestData></TestData>
+<WaitTime>0 </WaitTime>
+</categoryName>
+</categories>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<categoryName>
+<ObjectName>Search_Textfield</ObjectName>
+<ObjectValue>name,q</ObjectValue>
+<Comments>No</Comments>
+</categoryName>
+<categoryName>
+<ObjectName>Search_Gmail</ObjectName>
+<ObjectValue>linkText,Gmail1</ObjectValue>
+<Comments>No</Comments>
+</categoryName>
+<categoryName>
+<ObjectName>Search_Images</ObjectName>
+<ObjectValue>xpath,//*[text()='Images']</ObjectValue>
+<Comments></Comments>
+</categoryName>
+<categoryName>
+<ObjectName>Search_Map</ObjectName>
+<ObjectValue>xpath,//*[text()='map']</ObjectValue>
+<Comments></Comments>
+</categoryName>
+</categories>
