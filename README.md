@@ -18,11 +18,17 @@ Highlights of my Keyword Driven Framework.
 Important Component of Keyword Driven Framework.
 
 1. ConfigurationMap folder: - It contains a excel file which is main and starting point of the framework. This file contains below sheets. 
-  • Dashboard sheet: - It contains all the information about test cases and summary of the unit testing information of test cases. There are three buttons o Update Test Case button: - we can update the name of test cases are available in our framework. o Run Test Cases button: - we can run our test cases which have Y against their name. o Save Test Cases button: - We can save the running state of the test case which we need to run just put Y against them. By saving the state of running test cases we can run through Jenkins.
-  • Test Case sheet: - This sheet contains all the information regarding the testcase. It has four different sections along with one text field int which we enter the testname, with one dropdown which has two options one for create test case and other one for fetch the test case details from xml file. 
+ 
+ • Dashboard sheet: - It contains all the information about test cases and summary of the unit testing information of test cases. There are three buttons o Update Test Case button: - we can update the name of test cases are available in our framework. o Run Test Cases button: - we can run our test cases which have Y against their name. o Save Test Cases button: - We can save the running state of the test case which we need to run just put Y against them. By saving the state of running test cases we can run through Jenkins.
+ 
+ • Test Case sheet: - This sheet contains all the information regarding the testcase. It has four different sections along with one text field int which we enter the testname, with one dropdown which has two options one for create test case and other one for fetch the test case details from xml file. 
+      
       o Events Column: - It has all keyword such as Open Browser, GetUrl, EnterText etc. For common steps we have a new sheet which is Components if we need to call common steps which are written in the components sheet then we need to call components in the given syntax:- Component-{Method name} for example:- I need to call Login method from component sheet then I need to write Component-Login. 
+      
       o Objects Column: - It contains the locator name. To store locator, we have different sheet Objects. But to call any object in the testscripts we need to enter the object name in the test script. 
+      
       o Test Data: - In this column we need to enter the test data or browser name for which we need to open such as chrome /firefox. 
+      
       o WaitTime column: - This column can be used when we need to pause test script at specific amount of time such as 1 sec etc.
 
   • Object Sheet: - In this sheet we keep al the locators and web element which selenium use. This sheet has three column and Two actions one for save the locators to xml file and second action for fetch all locators from xml file.
